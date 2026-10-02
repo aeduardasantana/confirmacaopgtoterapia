@@ -31,4 +31,4 @@ jobs:
 
         localDir: "./"
 
-        remoteDir: "./public_html/confirmacaopgto"
+        remoteDir: "./public_html/confirmacaopgto/"
